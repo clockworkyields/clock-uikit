@@ -1,6 +1,6 @@
 {
   "name": "clock-uikit",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Set of UI components for Blizzard projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,7 +8,10 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/blzd-dev/blzd-uikit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blzd-dev/blzd-uikit.git"
+  },
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./dist && rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
@@ -75,5 +78,10 @@
     "lodash": "^4.17.20",
     "react-transition-group": "^4.4.1",
     "styled-system": "^5.1.5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/blzd-dev/blzd-uikit/issues"
+  },
+  "homepage": "https://github.com/blzd-dev/blzd-uikit#readme",
+  "author": ""
 }
