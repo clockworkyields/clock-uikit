@@ -1,11 +1,11 @@
-# ❄️ Blizzard UIkit
+# ❄️ Clockwork UIkit
 
-Blizzard UIkit is a set of React components and hooks used to build pages on Blizzard's apps. It also contains a theme file for dark and light mode.
+Clockwork UIkit is a set of React components and hooks used to build pages on Clockwork's apps. It also contains a theme file for dark and light mode.
 This project is fork from pancakeswap-uikit
 
 ## Install
 
-`yarn add @blzd-dev/uikit`
+`yarn add clock-uikit`
 
 ## Setup
 
@@ -15,7 +15,7 @@ Before using Pancake UIkit, you need to provide the theme file to styled-compone
 
 ```
 import { ThemeProvider } from 'styled-components'
-import { light, dark } from '@blzd-dev/uikit'
+import { light, dark } from 'clock-uikit'
 ...
 <ThemeProvider theme={isDark}>...</ThemeProvider>
 ```
@@ -25,7 +25,7 @@ import { light, dark } from '@blzd-dev/uikit'
 A reset CSS is available as a global styled component.
 
 ```
-import { ResetCSS } from '@blzd-dev/uikit'
+import { ResetCSS } from 'clock-uikit'
 ...
 <ResetCSS />
 ```
