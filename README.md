@@ -1,4 +1,4 @@
-# ❄️ Clockwork UIkit
+# Clockwork UIkit
 
 Clockwork UIkit is a set of React components and hooks used to build pages on Clockwork's apps. It also contains a theme file for dark and light mode.
 This project is fork from pancakeswap-uikit
