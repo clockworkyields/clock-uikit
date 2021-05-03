@@ -49,13 +49,13 @@ export const links = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/blzd-dev",
+    href: "https://github.com/clockworkyields",
     external: true,
   },
   {
     label: "Blog",
     icon: "MediumIcon",
-    href: "https://blizzardmoney.medium.com",
+    href: "https://clockwork-yields.medium.com/",
     external: true,
   },
 ];
@@ -67,7 +67,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/BlizzardMoney",
+        href: "https://t.me/clockworkyields",
       },
       {
         label: "Announcements",
@@ -78,7 +78,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/money_blizzard",
+    href: "https://twitter.com/ClockworkYields",
   },
 ];
 
