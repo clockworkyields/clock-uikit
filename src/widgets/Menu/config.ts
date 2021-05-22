@@ -22,12 +22,12 @@ export const links = [
   },
   {
     label: "Farms",
-    icon: "FarmIcon",
+    icon: "VerifiedIcon",
     href: "/farms",
   },
   {
     label: "Caves",
-    icon: "CaveIcon",
+    icon: "UnverifiedIcon",
     href: "/caves",
   },
   {

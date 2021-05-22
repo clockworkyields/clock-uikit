@@ -20,4 +20,7 @@ export { default as TwitterIcon } from "./Twitter";
 export { default as GithubIcon } from "./Github";
 export { default as MediumIcon } from "./Medium";
 export { default as AuditIcon } from "./Audit";
-export{ default as ClockIcon } from "./Clock"
+export { default as ClockIcon } from "./Clock"
+export { default as VerifiedIcon } from "./Verified";
+export { default as UnverifiedIcon } from "./Unverified";
+
