@@ -69,10 +69,10 @@ export const socials = [
         label: "English",
         href: "https://t.me/clockworkyields",
       },
-      {
-        label: "Announcements",
-        href: "https://t.me/YetiTracker",
-      },
+      // {
+      //   label: "Announcements",
+      //   href: "https://t.me/YetiTracker",
+      // },
     ],
   },
   {
