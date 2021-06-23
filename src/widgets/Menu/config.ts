@@ -10,12 +10,12 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xA0bB7B9f0dB2FaF0eE51fAbb4502c430750Eea6F",
+        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x1176F401497A51A222f16bc1B6e5778eDbaB2b12",
         external: true,
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/add/BNB/0xA0bB7B9f0dB2FaF0eE51fAbb4502c430750Eea6F",
+        href: "https://exchange.pancakeswap.finance/#/add/BNB/0x1176F401497A51A222f16bc1B6e5778eDbaB2b12",
         external: true,
       },
     ],
@@ -41,7 +41,7 @@ export const links = [
     items: [
       {
         label: "PancakeSwap",
-        href: "https://pancakeswap.info/token/0xA0bB7B9f0dB2FaF0eE51fAbb4502c430750Eea6F",
+        href: "https://pancakeswap.info/token/0x1176F401497A51A222f16bc1B6e5778eDbaB2b12",
         external: true,
       },
     ],
